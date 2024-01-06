@@ -1,0 +1,15 @@
+body {
+  background-color: #f1f1f1;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.slider_container {
+  width: 323px;
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
